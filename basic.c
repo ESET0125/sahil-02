@@ -71,6 +71,7 @@ int main() {
          		// Decrement operator (--)
                 countdown--;
          //delay timer
+         delay_ms(500)
     
     printf("Liftoff!\n");
     }
